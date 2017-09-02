@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% assign items = site.pages | sort: 'order' %}
+{% for item in items %}
+  <article id="{{item.slug}}">
+    {{ item.content }}
+  </article>
+{% endfor %}

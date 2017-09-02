@@ -1,0 +1,22 @@
+{% capture separator %}{{ site.name-separator }}{% endcapture %}{{
+
+}}{% if site.name %}
+  {% capture site.name %}{{ site.name }}{% endcapture %}
+{% endif %}{{
+
+}}{% if site.name-separator %}
+  {% capture separator %}{{ site.name-separator }}{% endcapture %}
+{% endif %}{{
+
+}}{% if page.title %}
+  {% capture page-title %}{{ page.title }}{% endcapture %}
+{% endif %}{{
+
+}}{% if page-title and separator  %}
+  {% capture title %}{{page.title }} {{separator}} {{ site.name }}{% endcapture %}
+{% else %}
+  {% capture title %}{{ site.name }}{% endcapture %}
+{% endif %}{{
+
+
+}}<title>{{ title }}</title>

@@ -1,0 +1,35 @@
+# GITHUB OVERRIDES
+# can't change these
+safe: true
+lsi: false
+source: '.'
+exclude: []
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+sass:
+  sass_dir: _sass
+
+# Site data
+license: 'http://www.apache.org/licenses/LICENSE-2.0'
+version: 1
+collections:
+  pages:
+    output: true
+
+# Site
+name: "Becki's Site name"
+tagline: ""
+description: >
+  Super awesome description
+baseurl: "/"
+url: "http://becki.com"
+title-separator: "•"
+
+# Author Details
+author:
+  name: Rebecca Bird
+  email: becki@email.com
+
