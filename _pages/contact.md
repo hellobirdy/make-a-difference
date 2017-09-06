@@ -1,10 +1,8 @@
 ---
 order: 4
 title: contact
-layout: page
+image: false
 ---
-
-## Contact
 
 <form method="post" action="#">
   <div class="field half first">
