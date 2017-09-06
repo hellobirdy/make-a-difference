@@ -1,13 +1,3 @@
-# GITHUB OVERRIDES
-# can't change these
-safe: true
-lsi: false
-source: '.'
-exclude: []
-
-# Build settings
-markdown: kramdown
-highlighter: pygments
 
 sass:
   sass_dir: _sass
