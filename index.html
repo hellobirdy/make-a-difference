@@ -4,6 +4,12 @@ layout: default
 {% assign items = site.pages | sort: 'order' %}
 {% for item in items %}
   <article id="{{item.slug}}">
+    <h2>{{ item.title }}</h2>
+
+    {% capture item_slug %}{{item.slug}}{% endcapture %}
+    {% capture item_image %}{{item.image}}{% endcapture %}
+    {% include image.html content=item_slug image=item_image %}
+
     {{ item.content }}
   </article>
 {% endfor %}
