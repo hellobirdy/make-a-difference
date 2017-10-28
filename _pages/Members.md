@@ -3,7 +3,7 @@ order: 4
 title: Members
 ---
 
-# Ian McAllister
+## Ian McAllister
 
 Executive Director
 
