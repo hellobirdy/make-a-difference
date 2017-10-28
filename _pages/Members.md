@@ -6,5 +6,4 @@ title: Members
 ## Ian McAllister
 
 Executive Director
-
-Co-founder, award winning photographer, author of 6 books
+Co-founder, award winning photographer, author of 6 books, and member of the International League of Conservation Photographers.
