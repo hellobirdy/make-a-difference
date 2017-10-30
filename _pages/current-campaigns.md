@@ -10,3 +10,6 @@ This campaign has been set up in order to better understand the acoustic landsca
 
 ## No Tankers
 
+The 'No Tankers' movement has garnered thousands of supporters all throughout B.C., and it finally became loud enough that in May of 2017 the Government of Canada at last put through legislation to ban oil tankers carrying over 12,500 metric tonnes of crude oil in the Great Bear Sea. However, this legislation comes with a massive loophole which is that tankers carrying less than the 12,500 metric tonnes or other refined petroleum products such as Liquified Natural Gas can still make shipments through the area. The consequences of this loophole are already well known from the sinking of the Nathan E. Stewart tank-barge that sank off the coast of Bella Bella in October of 2016 which affected the local Heiltsuk Nation and the wildlife habitats from the spillage. 
+
+
