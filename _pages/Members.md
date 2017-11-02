@@ -26,16 +26,20 @@ As the winner of the National Geographic Young Explorer award and a member of th
 
 ## Colette Heneghan - Donor outreach & Event management
 
+With a professional background in archaeology as well as teaching experience, Colette Heneghan is a knowledgeable and valuable asset to the Pacific Wild team. After obtaining her BA with honors in History/Archaeology from Anglia University, Colette spent a long period of time travelling across Asia and Europe to teach variations of English Language learning before returning to Denny Island here in British Columbia. In 2011 she officially joined the Pacific Wild team in multiple different positions over the years and she continues to push for awareness and education about the north coast and the Great Bear Rainforest conservation efforts. 
 
-
-Colette's professional background is in archaeology and teaching youth and adults with a BA(Hons) History/Archaeology from Anglia University, Cambridge. After several years in Asia and Europe teaching multiple variations of English language learning, she moved back to the west coast and up to Denny Island in the Great Bear Rainforest.
-Colette joined Pacific Wild in early 2011 with social media/outreach campaign work at the time of the Great Bear RAVE and the No Pipeline, No Tankers movement. As Pacific Wild has evolved, Colette's role has grown to include event organization. 
-Utilizing the literature, visual media, curriculum materials and awesome remote Great Bear LIVE camera feeds, Colette's dream is to bring the Great Bear to people all over the world. Colette's strong belief is that through education, outreach and awareness, our coast can and will be conserved and protected.
 
 ## Geoff Campbell - Visual Media Manager
 
+After years of growing up on Vancouver Island, Geoff Campbell holds a special place in his heart for the coasts and wilderness of the island and the rest of British Columbia. Geoff came to the Pacific Wild team for graphic design and multimedia management in 2013 after only a year of studies in Communication Design at the Emily Carr University of Art + Design. 
 
 ## Loren Clark-Moe - Pacific Wild Alliance US Partner
+
+After only two weeks from her first visit to the Great Bear Rainforest and meeting Pacific Wild, Loren was back to volunteer and turned her stay into a month long visit back in September of 2013. Ever since then Loren has been recognized as the Board Director for Pacific Wild Alliance, which is the U.S. non-profit sister organization. 
+
+ Loren is proud to bring her decade of government relations and public policy experience to the Board and is honored to add her voice as an advocate for the Great Bear.
+
+Based in Chicago, IL, Loren has a BA in International Affairs from The George Washington University and a Masters of Public Administration from the University of North Carolina at Chapel Hill.
 
 ## Rob Mackenzie - Systems Engineer
 
