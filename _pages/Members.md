@@ -51,24 +51,15 @@ After spending the summer of 2016 as one of the SEAS interns, Jordan became inst
 
 ## Megan Humchitt - Marine Protection Campaigner & Heiltsuk Community Liason
 
-
-
-Megan is a member of the Heiltsuk Nation and lives in her hometown of Bella Bella, BC.  Growing up she spent much time with her family out on the ocean learning about her ancestral territory and Heiltsuk culture and traditions. Her Dad is a Heiltsuk hereditary chief and has actively protected wild salmon, herring stocks and stood up against clearcut logging.
-
-Megan has just completed an Indigenous Tourism program through VIU and was part of a research team this past summer collecting information about sea otters in the Great Bear Rainforest. She continues to spend much of her time exploring new and familiar places. Her passion for protecting the lands and ocean emanates from her cultural roots and deep connection to this place she calls home.
-
-More than ever we need to work together to protect the Great Bear Rainforest and Megan is excited to be working with Pacific Wild.
+As a member of the Heiltsuk Nation, Megan spent her younger years learning about her ancestral history, territory, and culture out on the ocean with her family. These experiences and importantance of her ancestral history were inspired by her father who is a hereditary chief that has protected herring stocks, wild salmon, and fought against clearcutting in the forests. After attending Vancouver Island University for the Indigenous Tourism program, Megan joined a research team to gather information in the Great Bear Rainforest from sea otters and she continues to explore the and protect lands that she calls home.
 
 ## Maeva Gauthier - Marine Science & Communications Specialist
 
-As a marine ecologist, science communicator, and explorer, Maeva is passionate about connecting people to the ocean, using education and filmmaking as tools. She recently completed a Graduate Certificate in Education and Communication at Royal Roads University (2015). Prior to that, she completed a Masters in marine ecology (Univ. of Victoria, 2012), and a BSc. in biology (Univ. of Quebec in Montreal, 2007). She has been involved in a diversity of projects related to marine science, outreach and education, including: Fish Eye Project Live Dives, Polar Knowledge Canada Arctic bulletins, Arctic film workshops with youth, coastal community monitoring, University Antarctic expedition, ShoreZone Coastal Mapping by helicopter using imagery, marine ecology surveys in the Arctic on board an Icebreaker, studying deep-sea ecosystems off Vancouver Island using video and sonar, etc. She is excited to bring her passion for ocean conservation and outreach to Pacific Wild in support of their Great Bear Sea campaigns. 
+Maeva Gauthier has become an excellent addition to the Pacific Wild team with her years of professional and educational experiences as a marine scientist and communicator. She's well qualified with a Graduate Certificate in Education & Communication from Royal Roads University, a Masters in Marine Ecology from Uvic, and a Bachelors in Biology from the University of Quebec. Maeva also has made her name well known from a variety from projects such as Fish Eye Project Live Dives, Polar Knowledge Canada Arctic bulletins, Arctic film workshops with youth, and many more. With this high level of passion and dedication to her work, Maeva is an outstanding voice for ocean conservation in the Great Bear Sea.
 
 ## Laurie McConnell - Development & Outreach Assistant
-Laurie spent her twenties exploring the BC coastline every summer aboard a 26' wooden sloop sailboat and discovered a love for the wild marine environment and all the creatures within it.  
- 
-She relocated to the Sunshine Coast and has spent 30 years involved in the community across a variety of organizations and initiatives. She has a journalism degree and a background in communications, and studied art and creative writing as tools to transform the way we communicate around charged topics. Community engagement and outreach and supporting other team members through her skillset are her greatest areas of interest.
- 
-She is delighted to join the Pacific Wild team and is looking forward to working in her great love of BC's unique coastal geography and culture. This is her dream job, helping protect such a critical piece of British Columbia and engaging in outreach and development to further Pacific Wild's goals in the Great Bear Rainforest and Sea.
- 
+
+After spending most of her twenties sailing along the BC coastline in the summer, Laurie developed a deep connection to the marine life and environment. With a degree in journalism and experience in communications, Laurie spent her time relocated on the Sunshine Coast and became heavily involved within the community to bring light to important topics and initiatives. This allowed her to develop her skillset thoroughly in communications and outreach which serves as a great benefit to the Pacific Wild team as they work to protect the Great Bear Rainforest and sea.
+
 
 
