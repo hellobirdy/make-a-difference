@@ -20,11 +20,13 @@ Despite the struggles that the pacific herring stocks have encountered there is 
 
 ## Marine Planning
 
+With the constant threats from industrial shipping, salmon farms, fishing pressure, and climate change looming over the diverse marine life in the Great Bear Rainforest and sea there comes a dire need for planning and protection of the ecosystem. This is where Pacific Wild has stepped in with the First Nations communities and provincial government to work together to help implement the Marine Planning Partnership (MaPP) in order to protect the B.C. coast. Furthermore, there's also talks between the First Nations, the provincial government, and the federal government to design a network of protected marine areas called the Northern Bioregion Marine Protected Areas Network. These engagements with both levels of government are done in hopes to achieve conservation targets for a massive range of habitats and species within. 
 
-
+The importance of these plans brings to light that human activity is slowly destroying the biodiversity within ecosystems such as the Great Bear Rainforest and sea. However, with plans and designated protection areas in place the ecosystems would then be allowed to recover over time. The biggest fault that unfortunately comes with these plans though is that they offer little to no protection from threats outside of the designated boundaries. Some of these threats include ocean acidification, tanker noise, fishing pressure, amd contamination from toxins. Although there are some other successful tools and ideas that exist to help combat these threats, there is always more room to expand for convservation targets with marine planning and MPAs. 
 
 ## Wild Salmon
 
+As one of the most important foundations of the Great Bear ecosystem, wild salmon unfortunately face a multitude of threats from human activity. With our constant logging, road building, and other land changes in the Great Bear there has been drastic effects on the spawning habitats and salmon stocks. This serves as an important reminder that without the yearly salmon runs having enough to sustain a variety of marine mammals and wildlife on land, the biodiversity of the ecosystems will falter without the chance to recover if we don't take action against the harmful practices with fish farms and industrial development.
 
 ## Land Campaigns
 
